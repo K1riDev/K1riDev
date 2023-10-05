@@ -38,10 +38,20 @@
 
 <div align="center">
   <h2><strong>Spotify</strong></h2>
-</div>   
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ztcgm0hcyxa1w2w6xaueqsoj9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ztcgm0hcyxa1w2w6xaueqsoj9&redirect=true)
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 1; margin: 10px; flex-basis: 50%;">
+        <a href="https://app.daily.dev/kiri86">
+            <img src="https://api.daily.dev/devcards/3363cd3cabe94494b5133d3e77c59915.png?r=qdf" alt="Oscar Muñoz's Dev Card"/>
+        </a>
+    </div>
+    <div style="flex: 1; margin: 10px; flex-basis: 50%;">
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=ztcgm0hcyxa1w2w6xaueqsoj9&redirect=true">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=ztcgm0hcyxa1w2w6xaueqsoj9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile"/>
+        </a>
+    </div>
+</div>
 
 <div align="center">
   <h2><strong>Stats</strong></h2>
