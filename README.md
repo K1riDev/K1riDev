@@ -7,8 +7,11 @@
 - **⚡ Dato Curioso: Me encantan los MMO**
 
 <div align="center">
-  <a href="https://discord.com/users/275930607702245376">
+  <a href="https://discord.com/users/275930607702245376" style="display: inline-block; width: 250px; margin-right: 10px;">
     <img src="https://lanyard-profile-readme.vercel.app/api/275930607702245376?theme=dark&animated=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Presencia en Discord" />
+  </a>
+  <a href="https://astro.badg.es/contributor/K1ri86/" style="display: inline-block; width: 250px;">
+    <img src="https://astro.badg.es/v2/contributor/K1ri86.svg" alt="@K1ri86 Astro contributions" width="250" height="150">
   </a>
 </div>
 
@@ -50,11 +53,6 @@
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ri86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes" />
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <a href="https://astro.build">
-      <img src="https://astro.badg.es/v1/contributor/K1ri86.svg" alt="Built with Astro" width="250" height="150">
-    </a>
   </div>
 </div>
 
