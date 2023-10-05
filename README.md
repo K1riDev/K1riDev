@@ -51,24 +51,7 @@
   <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=k1ri86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="gráfico de estadísticas" />
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; padding-left: 20px;"> <!-- Añadí un espacio entre los paneles -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ri86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes" />
   </div>
-</div>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-</p>
-
-<div align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@k1ri86?theme=gelbooru"></a>
 </div>
