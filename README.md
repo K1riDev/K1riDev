@@ -46,13 +46,15 @@
 
 <div align="center">
   <h2><strong>Stats</strong></h2>
-</div> 
+</div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=k1ri86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="gráfico de estadísticas" />
   </div>
-  <div style="flex: 1; text-align: center; padding-left: 20px;"> <!-- Añadí un espacio entre los paneles -->
+  <div style="flex: 1; text-align: center; padding-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ri86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes" />
   </div>
 </div>
+
+[![Holopin profile](https://holopin.me/k1ri86)](https://holopin.io/@k1ri86)
