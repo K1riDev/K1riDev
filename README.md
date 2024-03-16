@@ -9,9 +9,9 @@
 <div align="center">
   <a href="https://discord.com/users/275930607702245376" style="display: inline-block; width: 250px; margin-right: 10px;">
   </a>
-  <a href="https://astro.badg.es/contributor/K1ri86/" style="display: inline-block; width: 250px;">
-    <img src="https://astro.badg.es/v2/contributor/K1ri86.svg" alt="@K1ri86 Astro contributions" width="250" height="150">
-  </a>
+<a href="https://astro.badg.es/contributor/KiriCoder/">
+  <img src="https://astro.badg.es/v2/contributor/KiriCoder.svg" alt="@KiriCoder Astro contributions" width="260" height="156">
+</a>
 </div>
 
 <div align="center">
