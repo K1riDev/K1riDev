@@ -9,8 +9,8 @@
 <div align="center">
   <a href="https://discord.com/users/275930607702245376" style="display: inline-block; width: 250px; margin-right: 10px;">
   </a>
-<a href="https://astro.badg.es/contributor/KiriCoder/">
-  <img src="https://astro.badg.es/v2/contributor/KiriCoder.svg" alt="@KiriCoder Astro contributions" width="260" height="156">
+<a href="https://astro.badg.es/contributor/CodeF1ow/">
+  <img src="https://astro.badg.es/v2/contributor/CodeF1ow.svg" alt="@CodeF1ow Astro contributions" width="260" height="156">
 </a>
 </div>
 
