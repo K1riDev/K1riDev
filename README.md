@@ -49,10 +49,10 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kiricoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="gráfico de estadísticas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codef1ow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="gráfico de estadísticas" />
   </div>
   <div style="flex: 1; text-align: center; padding-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiricoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codef1ow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes" />
   </div>
 </div>
 
