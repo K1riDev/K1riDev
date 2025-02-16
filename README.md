@@ -5,6 +5,10 @@
 - **🌱 Actualmente estoy aprendiendo Astro y React.**
 - **❓ Pregúntame sobre cualquier cosa relacionada con las tecnologías.**
 - **⚡ Dato Curioso: Me encantan los MMO**
+<div align="left">
+  <a href="https://twitter.com/CodeF1ow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://instagram.com/codef1ow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</div>
 
 <div align="center">
   <h2><strong>Stats</strong></h2>
@@ -18,11 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=codef1ow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="156" alt="gráfico de estadísticas" style="margin-bottom: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codef1ow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="156" alt="gráfico de lenguajes" />
   </div>
-</div>
-
-<div align="center">
-  <a href="https://twitter.com/CodeF1ow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://instagram.com/codef1ow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </div>
 
 <div align="center">
@@ -41,13 +40,9 @@
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>
 
+## 🏆 GitHub Trophies
 <div align="center">
-  <h2><strong>Spotify</strong></h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=codef1ow&theme=dracula" alt="GitHub Trophies" />
+  </a>
 </div>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ztcgm0hcyxa1w2w6xaueqsoj9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ztcgm0hcyxa1w2w6xaueqsoj9&redirect=true)
-
-
-[![Holopin profile](https://holopin.me/k1ri86)](https://holopin.io/@k1ri86)
