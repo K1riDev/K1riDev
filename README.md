@@ -40,7 +40,9 @@
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <h2><strong>GitHub Trophies</strong></h2>
+</div>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=codef1ow&theme=dracula" alt="GitHub Trophies" />
