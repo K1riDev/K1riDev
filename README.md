@@ -6,7 +6,7 @@
 - **❓ Pregúntame sobre cualquier cosa relacionada con las tecnologías.**
 - **⚡ Dato Curioso: Me encantan los MMO**
 <div align="left">
-  <a href="https://twitter.com/CodeF1ow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/KiriDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://instagram.com/codef1ow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </div>
 
@@ -15,12 +15,12 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://astro.badg.es/contributor/CodeF1ow/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://astro.badg.es/v2/contributor/CodeF1ow.svg" alt="@CodeF1ow Astro contributions" width="260" height="156">
+  <a href="https://astro.badg.es/contributor/K1riDev/" style="display: inline-block; margin-right: 20px;">
+    <img src="https://astro.badg.es/v2/contributor/CodeF1ow.svg" alt="@K1riDev Astro contributions" width="260" height="156">
   </a>
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=codef1ow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="156" alt="gráfico de estadísticas" style="margin-bottom: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codef1ow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="156" alt="gráfico de lenguajes" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K1riDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="156" alt="gráfico de estadísticas" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1riDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="156" alt="gráfico de lenguajes" />
   </div>
 </div>
 
@@ -45,6 +45,6 @@
 </div>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=codef1ow&theme=dracula" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=K1riDev&theme=dracula" alt="GitHub Trophies" />
   </a>
 </div>
